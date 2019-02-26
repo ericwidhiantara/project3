@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "843675781871",
+    "firebase_url": "https://rumah-kos-1526552250092.firebaseio.com",
+    "project_id": "rumah-kos-1526552250092",
+    "storage_bucket": "rumah-kos-1526552250092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843675781871:android:76b708a5b73f60e4",
+        "android_client_info": {
+          "package_name": "com.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843675781871-6l3m7083ok4emisijuiale3ijtk1h2r6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "843675781871-8j9e40u6rj6b57rub8ek9dfr4tjfra37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project3",
+            "certificate_hash": "5c976fef6ad91d90c850297fd4260decdb915e44"
+          }
+        },
+        {
+          "client_id": "843675781871-f54hcsqsssldju7qengg2llnl9kj6toh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjDJtNgyblOH-yqm5PvqnG227kQM-8sY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843675781871-6l3m7083ok4emisijuiale3ijtk1h2r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

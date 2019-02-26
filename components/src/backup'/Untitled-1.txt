@@ -1,0 +1,6 @@
+SELECT kos.nama_kos, kos.alamat, kos.harga, user.nama, user.nohp, kos.type, kos.luas_kamar, kos.fasilitas
+FROM kos
+INNER JOIN user 
+ON kos.id_user=user.id_user
+WHERE user.id_user=1 && kos.id_kos=1
+GROUP BY kos.id_kos;
